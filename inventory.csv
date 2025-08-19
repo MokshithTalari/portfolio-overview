@@ -1,0 +1,8 @@
+repository_name,visibility,languages,last_update,default_branch,topics
+etl-bi-pipeline,public,Python,2 months ago,main,"python, etl, bi"
+automation-kpi,public,Python,2 months ago,main,"python, analytics, kpi"
+aml-kyc-triage-simulator,public,Python,7 months ago,main,"python, aml, kyc"
+risk-model-validation,public,"Python, Jupyter Notebook",1 week ago,main,"python, risk, model-validation"
+Mokshith-Talari,public,,7 months ago,main,
+Customer-Segmentation-RFM-Analysis,public,,now,main,"customer segmentation, rfm, analysis"
+portfolio-overview,public,,now,main,"portfolio, overview"
